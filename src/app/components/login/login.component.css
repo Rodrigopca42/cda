@@ -8,6 +8,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    box-shadow: 0 0 15px #555;
 }
 
 form{
@@ -30,5 +31,4 @@ h1{
 
 button{
     margin-top: 1rem;
-    box-shadow: 0 0 6px #555;
  }
